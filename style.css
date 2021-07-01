@@ -110,6 +110,10 @@
     text-align: center;
 }
 
+.cv-header__item span {
+    font-style: italic;
+}
+
 
 /* cv body */
 .cv-body__item{
@@ -170,4 +174,9 @@
     color:#ca0000;
     font-size: 18px;
     padding-left: 8px;
+}
+
+.link-adress {
+    color:#ca0000;
+    text-decoration: none;
 }
